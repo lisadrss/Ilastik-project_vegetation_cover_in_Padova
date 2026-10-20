@@ -2,7 +2,7 @@
 
 Quantification of urban vegetation cover in three districts of Padova (city center, university area, industrial area) from aerial imagery, using pixel classification in [Ilastik](https://www.ilastik.org/) and automated pixel counting in ImageJ. Project for the **Image Based Learning** course (MSc in Quantitative and Computational Bioscience, University of Padova).
 
-📄 Full report: [`report.pdf`](report.pdf)
+📄 Full report: [`De Rossi Lisa - report.pdf`](report.pdf)
 
 ## Results
 
